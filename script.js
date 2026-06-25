@@ -1,0 +1,1 @@
+console.log("Sabi Naija landing page loaded");
